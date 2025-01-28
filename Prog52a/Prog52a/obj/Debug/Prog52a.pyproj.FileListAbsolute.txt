@@ -1,0 +1,12 @@
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\bin\Debug\Prog52a.exe.config
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\bin\Debug\Prog52a.exe
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\bin\Debug\Prog52a.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\bin\Debug\IronPython.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\bin\Debug\IronPython.Modules.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\obj\Debug\Prog52a.pyprojResolveAssemblyReference.cache
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\obj\Debug\Prog52a.MainForm.resources
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\obj\Debug\Prog52a.pyproj.GenerateResource.Cache
+C:\Users\dougherty.l\Desktop\Programming-2\Prog52a\Prog52a\obj\Debug\Prog52a.exe
