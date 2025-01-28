@@ -17,3 +17,14 @@ bool    - Boolean (either True or False, only)
 %   Mod (Remained from Int division)
 **  Power-Of Operator
 """
+
+"""Assignment Operators:
+= Value Assignment (x = y)
+=+ Add To (x += y is the same as x = x + y)
+-= Subtract From (Same Idea As The Top)
+*= Multiply From (Same Idea AS The Top)
+/=
+//=
+%=
+**=
+"""
