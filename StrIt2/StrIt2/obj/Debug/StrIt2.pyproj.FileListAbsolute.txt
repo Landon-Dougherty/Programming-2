@@ -1,0 +1,12 @@
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\bin\Debug\StrIt2.exe.config
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\bin\Debug\StrIt2.exe
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\bin\Debug\StrIt2.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\bin\Debug\IronPython.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\bin\Debug\IronPython.Modules.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\bin\Debug\Microsoft.Scripting.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\obj\Debug\StrIt2.pyprojResolveAssemblyReference.cache
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\obj\Debug\StrIt2.MainForm.resources
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\obj\Debug\StrIt2.pyproj.GenerateResource.Cache
+C:\Users\dougherty.l\Desktop\Programming-2\StrIt2\StrIt2\obj\Debug\StrIt2.exe

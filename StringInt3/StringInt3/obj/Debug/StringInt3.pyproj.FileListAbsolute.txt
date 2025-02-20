@@ -1,0 +1,12 @@
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\bin\Debug\StringInt3.exe.config
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\bin\Debug\StringInt3.exe
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\bin\Debug\StringInt3.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\bin\Debug\IronPython.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\bin\Debug\IronPython.Modules.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\bin\Debug\Microsoft.Scripting.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\obj\Debug\StringInt3.pyprojResolveAssemblyReference.cache
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\obj\Debug\StringInt3.MainForm.resources
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\obj\Debug\StringInt3.pyproj.GenerateResource.Cache
+C:\Users\dougherty.l\Desktop\Programming-2\StringInt3\StringInt3\obj\Debug\StringInt3.exe
