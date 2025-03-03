@@ -169,9 +169,12 @@ class Form2(Form):
 
     def Button1Click(self, sender, e):
         TC = 7 
+        amt = int(self._textBox1.Text)
         self._label2.Text = "Ticket Cost : " + str(TC)
         self._label3.Text = "Tax % : 0.06"
-        self._label4.Text = "Total : " + str(int(TC * int(self._textBox1.Text)))
+        total = TC * amt
+        total = total + (total * 0.06)
+        self._label4.Text = "Total : " + str(total)
 
     def Button2Click(self, sender, e):
         Application.Exit()

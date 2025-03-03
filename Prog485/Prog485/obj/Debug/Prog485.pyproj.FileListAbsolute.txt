@@ -1,0 +1,13 @@
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\bin\Debug\Prog485.exe.config
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\bin\Debug\Prog485.exe
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\bin\Debug\Prog485.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\bin\Debug\IronPython.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\bin\Debug\IronPython.Modules.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\bin\Debug\Microsoft.Scripting.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\obj\Debug\Prog485.pyprojResolveAssemblyReference.cache
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\obj\Debug\Prog485.MainForm.resources
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\obj\Debug\Prog485.pyproj.GenerateResource.Cache
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\obj\Debug\Prog485.exe
+C:\Users\dougherty.l\Desktop\Programming-2\Prog485\Prog485\obj\Debug\Prog485.Form1.resources

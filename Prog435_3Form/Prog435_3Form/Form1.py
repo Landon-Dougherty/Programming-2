@@ -201,7 +201,7 @@ class Form1(Form):
         a = self._radioButton1.Checked 
         b = self._radioButton2.Checked
         c = self._radioButton3.Checked
-        if a:
+        if   a:
             TC = 20
         elif b:
             TC = 15

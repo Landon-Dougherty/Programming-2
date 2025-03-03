@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Prog447Menu", "Prog447Menu\Prog447Menu.pyproj", "{59A1D0FA-C2A3-4BAC-B1DE-9A4583F3606B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59A1D0FA-C2A3-4BAC-B1DE-9A4583F3606B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A1D0FA-C2A3-4BAC-B1DE-9A4583F3606B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A1D0FA-C2A3-4BAC-B1DE-9A4583F3606B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A1D0FA-C2A3-4BAC-B1DE-9A4583F3606B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

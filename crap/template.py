@@ -1,9 +1,7 @@
-import sys
-
-def main(args: list[str]):
-
+def main():
 
     pass
 
+
 if __name__ == "__main__":
-    main(sys.argv[1:])
+    main()
