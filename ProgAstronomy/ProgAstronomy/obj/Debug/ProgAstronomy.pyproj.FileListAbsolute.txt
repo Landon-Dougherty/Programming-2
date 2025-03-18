@@ -10,3 +10,4 @@ C:\Users\dougherty.l\Desktop\Programming-2\ProgAstronomy\ProgAstronomy\obj\Debug
 C:\Users\dougherty.l\Desktop\Programming-2\ProgAstronomy\ProgAstronomy\obj\Debug\ProgAstronomy.MainForm.resources
 C:\Users\dougherty.l\Desktop\Programming-2\ProgAstronomy\ProgAstronomy\obj\Debug\ProgAstronomy.pyproj.GenerateResource.Cache
 C:\Users\dougherty.l\Desktop\Programming-2\ProgAstronomy\ProgAstronomy\obj\Debug\ProgAstronomy.exe
+C:\Users\dougherty.l\Desktop\Programming-2\ProgAstronomy\ProgAstronomy\obj\Debug\ProgAstronomy.Pluto.resources

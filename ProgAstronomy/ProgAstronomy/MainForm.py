@@ -43,6 +43,7 @@ class MainForm(Form):
         self._button1.TabIndex = 1
         self._button1.Text = "Mercury"
         self._button1.UseVisualStyleBackColor = False
+        self._button1.Click += self.Button1Click
         # 
         # button2
         # 
@@ -54,6 +55,7 @@ class MainForm(Form):
         self._button2.TabIndex = 2
         self._button2.Text = "Venus"
         self._button2.UseVisualStyleBackColor = False
+        self._button2.Click += self.Button2Click
         # 
         # button3
         # 
@@ -65,6 +67,7 @@ class MainForm(Form):
         self._button3.TabIndex = 3
         self._button3.Text = "Earth"
         self._button3.UseVisualStyleBackColor = False
+        self._button3.Click += self.Button3Click
         # 
         # button4
         # 
@@ -76,6 +79,7 @@ class MainForm(Form):
         self._button4.TabIndex = 6
         self._button4.Text = "Mars"
         self._button4.UseVisualStyleBackColor = False
+        self._button4.Click += self.Button4Click
         # 
         # button5
         # 
@@ -87,6 +91,7 @@ class MainForm(Form):
         self._button5.TabIndex = 5
         self._button5.Text = "Jupiter"
         self._button5.UseVisualStyleBackColor = False
+        self._button5.Click += self.Button5Click
         # 
         # button6
         # 
@@ -98,6 +103,7 @@ class MainForm(Form):
         self._button6.TabIndex = 4
         self._button6.Text = "Saturn"
         self._button6.UseVisualStyleBackColor = False
+        self._button6.Click += self.Button6Click
         # 
         # button7
         # 
@@ -109,6 +115,7 @@ class MainForm(Form):
         self._button7.TabIndex = 9
         self._button7.Text = "Uranus"
         self._button7.UseVisualStyleBackColor = False
+        self._button7.Click += self.Button7Click
         # 
         # button8
         # 
@@ -120,6 +127,7 @@ class MainForm(Form):
         self._button8.TabIndex = 8
         self._button8.Text = "Neptune"
         self._button8.UseVisualStyleBackColor = False
+        self._button8.Click += self.Button8Click
         # 
         # button9
         # 
@@ -131,6 +139,7 @@ class MainForm(Form):
         self._button9.TabIndex = 7
         self._button9.Text = "Pluto"
         self._button9.UseVisualStyleBackColor = False
+        self._button9.Click += self.Button9Click
         # 
         # MainForm
         # 
@@ -150,3 +159,48 @@ class MainForm(Form):
         self.Text = "ProgAstronomy"
         self.ResumeLayout(False)
 
+
+    def Button9Click(self, sender, e): # Pluto
+        from Pluto import *
+        pluto = Pluto(self)
+        pluto.Show()
+        self.Hide()
+ 
+    def Button1Click(self, sender, e): # Mercury
+        from Mercury import * 
+        mercury = Mercury(self)
+        mercury.Show()
+        self.Hide()
+
+    def Button2Click(self, sender, e): # Venus
+        from Venus import *
+        venus = Venus(self)
+        venus.Show()
+        self.Hide()
+        
+
+    def Button3Click(self, sender, e): # Earth
+        __import__("Earth").Earth(self).Show()
+        self.Hide()
+
+
+    def Button4Click(self, sender, e): # Mars
+        __import__("Mars").Mars(self).Show()
+        self.Hide()
+
+    def Button5Click(self, sender, e): # Jupiter
+        __import__("Jupiter").Jupiter(self).Show()
+        
+
+    def Button6Click(self, sender, e): # Saturn 
+        __import__("Saturn").Saturn(self).Show()
+        self.Hide()
+
+    def Button7Click(self, sender, e): # Uranus
+        __import__("Uranus").Uranus(self).Show()
+        self.Hide()
+
+    def Button8Click(self, sender, e): # Neptune
+        __import__("Neptune").Neptune(self).Show()
+        self.Hide()
+        
