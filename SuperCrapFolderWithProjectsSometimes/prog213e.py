@@ -22,6 +22,7 @@ class Cost():
         print(f"40-59 \t {self.b60} \t Percent : {(self.b60/self.total)*100:.2f}")
         print(f"60-79 \t {self.b80} \t Percent : {(self.b80/self.total)*100:.2f}")
         print(f">80 \t {self.a80} \t Percent : {(self.a80/self.total)*100:.2f}")
+
     def Calc(self):
         for x in self.ages:
             if x in range(1,20):

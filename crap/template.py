@@ -18,6 +18,6 @@ def main():
 if __name__ == "__main__":
     main()
 
- EXAMPLE CODE  with open("../Langdat/prog213e.dat", 'r') as f:
-            for line in f:
-                self.ages.append(int(line))
+with open("../Langdat/prog213e.dat", 'r') as f:
+    for line in f:
+        self.ages.append(int(line))
