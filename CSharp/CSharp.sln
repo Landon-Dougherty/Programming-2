@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloName", "HelloName\HelloName.csproj", "{2CEC4D3B-BF7B-453E-B73C-50E1CAC6C188}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fullname", "Fullname\Fullname.csproj", "{85439D7B-E671-4DFE-8250-39FC0F450D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavClubs", "FavClubs\FavClubs.csproj", "{1933E681-6439-46D6-9969-AF2F0C6C2960}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2CEC4D3B-BF7B-453E-B73C-50E1CAC6C188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CEC4D3B-BF7B-453E-B73C-50E1CAC6C188}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CEC4D3B-BF7B-453E-B73C-50E1CAC6C188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85439D7B-E671-4DFE-8250-39FC0F450D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85439D7B-E671-4DFE-8250-39FC0F450D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85439D7B-E671-4DFE-8250-39FC0F450D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85439D7B-E671-4DFE-8250-39FC0F450D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1933E681-6439-46D6-9969-AF2F0C6C2960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1933E681-6439-46D6-9969-AF2F0C6C2960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1933E681-6439-46D6-9969-AF2F0C6C2960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1933E681-6439-46D6-9969-AF2F0C6C2960}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
