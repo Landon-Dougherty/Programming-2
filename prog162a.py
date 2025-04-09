@@ -10,7 +10,7 @@ def fact_loop(n):
 
 
 def fact(n):
-    if n     <= 1: return 1   # Base/Ending Case
+    if n <= 1: return 1   # Base/Ending Case
     return n * fact(n-1)  # Recursive Case
 
 

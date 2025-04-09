@@ -1,0 +1,17 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\bin\Debug\net6.0-windows\HelloWorld.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\bin\Debug\net6.0-windows\HelloWorld.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\bin\Debug\net6.0-windows\HelloWorld.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\bin\Debug\net6.0-windows\HelloWorld.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\bin\Debug\net6.0-windows\ref\HelloWorld.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\bin\Debug\net6.0-windows\HelloWorld.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.Form1.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.csproj.GenerateResource.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\obj\Debug\net6.0-windows\ref\HelloWorld.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloWorld\obj\Debug\net6.0-windows\HelloWorld.genruntimeconfig.cache

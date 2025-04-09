@@ -1,0 +1,15 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\bin\Debug\net6.0\HelloName.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\bin\Debug\net6.0\HelloName.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\bin\Debug\net6.0\HelloName.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\bin\Debug\net6.0\HelloName.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\bin\Debug\net6.0\ref\HelloName.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\bin\Debug\net6.0\HelloName.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\obj\Debug\net6.0\HelloName.csproj.AssemblyReference.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\obj\Debug\net6.0\HelloName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\obj\Debug\net6.0\HelloName.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\obj\Debug\net6.0\HelloName.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\obj\Debug\net6.0\HelloName.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\obj\Debug\net6.0\HelloName.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\obj\Debug\net6.0\ref\HelloName.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\obj\Debug\net6.0\HelloName.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\HelloName\obj\Debug\net6.0\HelloName.genruntimeconfig.cache
