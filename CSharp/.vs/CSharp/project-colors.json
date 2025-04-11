@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0522169e-1f24-4f93-9867-03d09bfd67c0": {
+      "ProjectGuid": "0522169e-1f24-4f93-9867-03d09bfd67c0",
+      "DisplayName": "HelloWorld",
+      "ColorIndex": 0
+    },
+    "2cec4d3b-bf7b-453e-b73c-50e1cac6c188": {
+      "ProjectGuid": "2cec4d3b-bf7b-453e-b73c-50e1cac6c188",
+      "DisplayName": "HelloName",
+      "ColorIndex": 1
+    },
+    "85439d7b-e671-4dfe-8250-39fc0f450d1b": {
+      "ProjectGuid": "85439d7b-e671-4dfe-8250-39fc0f450d1b",
+      "DisplayName": "Fullname",
+      "ColorIndex": 2
+    },
+    "1933e681-6439-46d6-9969-af2f0c6c2960": {
+      "ProjectGuid": "1933e681-6439-46d6-9969-af2f0c6c2960",
+      "DisplayName": "FavClubs",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "63add1a8-d286-4ae6-aecc-60ea43dcbdfb": {
+      "ProjectGuid": "63add1a8-d286-4ae6-aecc-60ea43dcbdfb",
+      "DisplayName": "Prog52a",
+      "ColorIndex": 4
+    },
+    "3ee4f547-75a3-4300-a16a-043533b4bde0": {
+      "ProjectGuid": "3ee4f547-75a3-4300-a16a-043533b4bde0",
+      "DisplayName": "Prog54b",
+      "ColorIndex": 5
+    },
+    "610e500f-4003-44f6-ade7-54bdc7582e4e": {
+      "ProjectGuid": "610e500f-4003-44f6-ade7-54bdc7582e4e",
+      "DisplayName": "Prog54d",
+      "ColorIndex": 6
+    },
+    "8585489c-9908-4c86-bba3-7fbf87e85421": {
+      "ProjectGuid": "8585489c-9908-4c86-bba3-7fbf87e85421",
+      "DisplayName": "Prog54c",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
