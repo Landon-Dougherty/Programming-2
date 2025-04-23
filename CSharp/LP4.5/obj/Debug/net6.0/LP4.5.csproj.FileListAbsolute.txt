@@ -1,0 +1,15 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\bin\Debug\net6.0\LP4.5.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\bin\Debug\net6.0\LP4.5.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\bin\Debug\net6.0\LP4.5.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\bin\Debug\net6.0\LP4.5.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\bin\Debug\net6.0\ref\LP4.5.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\bin\Debug\net6.0\LP4.5.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\obj\Debug\net6.0\LP4.5.csproj.AssemblyReference.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\obj\Debug\net6.0\LP4.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\obj\Debug\net6.0\LP4.5.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\obj\Debug\net6.0\LP4.5.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\obj\Debug\net6.0\LP4.5.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\obj\Debug\net6.0\LP4.5.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\obj\Debug\net6.0\ref\LP4.5.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\obj\Debug\net6.0\LP4.5.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\LP4.5\obj\Debug\net6.0\LP4.5.genruntimeconfig.cache

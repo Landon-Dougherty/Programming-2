@@ -1,0 +1,16 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\obj\Debug\net6.0-windows\AboutMeProgForClassThatIDon_tKnowHowToDoAnymoreOrSomething.Form1.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\obj\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.csproj.GenerateResource.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\obj\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\obj\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\obj\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\obj\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\bin\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\bin\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\bin\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\bin\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\bin\Debug\net6.0-windows\ref\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\bin\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\obj\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\obj\Debug\net6.0-windows\ref\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\obj\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething\obj\Debug\net6.0-windows\AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething.genruntimeconfig.cache

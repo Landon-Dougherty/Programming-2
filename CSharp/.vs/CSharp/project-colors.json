@@ -45,7 +45,32 @@
       "ProjectGuid": "8585489c-9908-4c86-bba3-7fbf87e85421",
       "DisplayName": "Prog54c",
       "ColorIndex": 7
+    },
+    "f4e32d25-1f01-4d5c-8453-2da001a0e29f": {
+      "ProjectGuid": "f4e32d25-1f01-4d5c-8453-2da001a0e29f",
+      "DisplayName": "Prog54a",
+      "ColorIndex": 8
+    },
+    "449f8cd5-796b-4913-8760-c0e7fe4d18db": {
+      "ProjectGuid": "449f8cd5-796b-4913-8760-c0e7fe4d18db",
+      "DisplayName": "AboutMeProgForClassThatIDon'tKnowHowToDoAnymoreOrSomething",
+      "ColorIndex": 9
+    },
+    "4b033aec-a17a-4cd8-af01-90ca6939a77c": {
+      "ProjectGuid": "4b033aec-a17a-4cd8-af01-90ca6939a77c",
+      "DisplayName": "Prog85c",
+      "ColorIndex": 10
+    },
+    "f93ff5f5-f97d-4c90-b732-0c6c3d5f9b78": {
+      "ProjectGuid": "f93ff5f5-f97d-4c90-b732-0c6c3d5f9b78",
+      "DisplayName": "LP4.5",
+      "ColorIndex": 11
+    },
+    "6792ae45-966c-4449-805c-66f96a754993": {
+      "ProjectGuid": "6792ae45-966c-4449-805c-66f96a754993",
+      "DisplayName": "LP4.1",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 13
 }
