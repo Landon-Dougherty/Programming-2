@@ -1,0 +1,16 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\bin\Debug\net6.0-windows\Prog122a.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\bin\Debug\net6.0-windows\Prog122a.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\bin\Debug\net6.0-windows\Prog122a.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\bin\Debug\net6.0-windows\Prog122a.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\bin\Debug\net6.0-windows\ref\Prog122a.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\bin\Debug\net6.0-windows\Prog122a.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\obj\Debug\net6.0-windows\Prog122a.Form1.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\obj\Debug\net6.0-windows\Prog122a.csproj.GenerateResource.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\obj\Debug\net6.0-windows\Prog122a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\obj\Debug\net6.0-windows\Prog122a.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\obj\Debug\net6.0-windows\Prog122a.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\obj\Debug\net6.0-windows\Prog122a.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\obj\Debug\net6.0-windows\Prog122a.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\obj\Debug\net6.0-windows\ref\Prog122a.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\obj\Debug\net6.0-windows\Prog122a.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog122a\obj\Debug\net6.0-windows\Prog122a.genruntimeconfig.cache

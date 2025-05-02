@@ -1,0 +1,16 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\bin\Debug\net6.0-windows\prog310a.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\bin\Debug\net6.0-windows\prog310a.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\bin\Debug\net6.0-windows\prog310a.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\bin\Debug\net6.0-windows\prog310a.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\bin\Debug\net6.0-windows\ref\prog310a.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\bin\Debug\net6.0-windows\prog310a.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\obj\Debug\net6.0-windows\prog310a.Form1.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\obj\Debug\net6.0-windows\prog310a.csproj.GenerateResource.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\obj\Debug\net6.0-windows\prog310a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\obj\Debug\net6.0-windows\prog310a.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\obj\Debug\net6.0-windows\prog310a.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\obj\Debug\net6.0-windows\prog310a.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\obj\Debug\net6.0-windows\prog310a.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\obj\Debug\net6.0-windows\ref\prog310a.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\obj\Debug\net6.0-windows\prog310a.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog310a\obj\Debug\net6.0-windows\prog310a.genruntimeconfig.cache

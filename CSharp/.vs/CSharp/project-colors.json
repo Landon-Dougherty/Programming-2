@@ -70,7 +70,37 @@
       "ProjectGuid": "6792ae45-966c-4449-805c-66f96a754993",
       "DisplayName": "LP4.1",
       "ColorIndex": 12
+    },
+    "48a56ac5-955c-445c-989c-1b89d2918a24": {
+      "ProjectGuid": "48a56ac5-955c-445c-989c-1b89d2918a24",
+      "DisplayName": "Prog273BookClub",
+      "ColorIndex": 13
+    },
+    "2ac0d768-d77a-4384-b187-d1739ca57baa": {
+      "ProjectGuid": "2ac0d768-d77a-4384-b187-d1739ca57baa",
+      "DisplayName": "Pg266LargeSmall",
+      "ColorIndex": 14
+    },
+    "0f1139d0-1c7f-4cc7-87a2-a4736eaddf43": {
+      "ProjectGuid": "0f1139d0-1c7f-4cc7-87a2-a4736eaddf43",
+      "DisplayName": "prog310a",
+      "ColorIndex": 15
+    },
+    "d310769d-b967-4ca1-bb28-242831af8b1b": {
+      "ProjectGuid": "d310769d-b967-4ca1-bb28-242831af8b1b",
+      "DisplayName": "prog122b",
+      "ColorIndex": 0
+    },
+    "754dc918-a891-432d-9dee-4b1b8e91917d": {
+      "ProjectGuid": "754dc918-a891-432d-9dee-4b1b8e91917d",
+      "DisplayName": "prog122bREAL",
+      "ColorIndex": 1
+    },
+    "789ef4bc-c505-404f-ba87-61c7eb6906d8": {
+      "ProjectGuid": "789ef4bc-c505-404f-ba87-61c7eb6906d8",
+      "DisplayName": "Prog347",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 3
 }

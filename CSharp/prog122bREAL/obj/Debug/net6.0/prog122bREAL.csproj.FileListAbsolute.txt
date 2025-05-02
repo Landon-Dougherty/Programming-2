@@ -1,0 +1,14 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\bin\Debug\net6.0\prog122bREAL.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\bin\Debug\net6.0\prog122bREAL.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\bin\Debug\net6.0\prog122bREAL.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\bin\Debug\net6.0\prog122bREAL.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\bin\Debug\net6.0\ref\prog122bREAL.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\bin\Debug\net6.0\prog122bREAL.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\obj\Debug\net6.0\prog122bREAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\obj\Debug\net6.0\prog122bREAL.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\obj\Debug\net6.0\prog122bREAL.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\obj\Debug\net6.0\prog122bREAL.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\obj\Debug\net6.0\prog122bREAL.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\obj\Debug\net6.0\ref\prog122bREAL.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\obj\Debug\net6.0\prog122bREAL.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\prog122bREAL\obj\Debug\net6.0\prog122bREAL.genruntimeconfig.cache
