@@ -3,3 +3,13 @@ C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\obj\Debug\net6.0\FavC
 C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\obj\Debug\net6.0\FavClubs.AssemblyInfoInputs.cache
 C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\obj\Debug\net6.0\FavClubs.AssemblyInfo.cs
 C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\obj\Debug\net6.0\FavClubs.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\bin\Debug\net6.0\FavClubs.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\bin\Debug\net6.0\FavClubs.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\bin\Debug\net6.0\FavClubs.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\bin\Debug\net6.0\FavClubs.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\bin\Debug\net6.0\ref\FavClubs.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\bin\Debug\net6.0\FavClubs.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\obj\Debug\net6.0\FavClubs.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\obj\Debug\net6.0\ref\FavClubs.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\obj\Debug\net6.0\FavClubs.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\FavClubs\obj\Debug\net6.0\FavClubs.genruntimeconfig.cache

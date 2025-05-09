@@ -1,0 +1,17 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\bin\Debug\net6.0-windows\Prog347.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\bin\Debug\net6.0-windows\Prog347.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\bin\Debug\net6.0-windows\Prog347.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\bin\Debug\net6.0-windows\Prog347.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\bin\Debug\net6.0-windows\ref\Prog347.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\bin\Debug\net6.0-windows\Prog347.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\obj\Debug\net6.0-windows\Prog347.csproj.AssemblyReference.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\obj\Debug\net6.0-windows\Prog347.Form1.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\obj\Debug\net6.0-windows\Prog347.csproj.GenerateResource.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\obj\Debug\net6.0-windows\Prog347.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\obj\Debug\net6.0-windows\Prog347.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\obj\Debug\net6.0-windows\Prog347.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\obj\Debug\net6.0-windows\Prog347.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\obj\Debug\net6.0-windows\Prog347.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\obj\Debug\net6.0-windows\ref\Prog347.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\obj\Debug\net6.0-windows\Prog347.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog347\obj\Debug\net6.0-windows\Prog347.genruntimeconfig.cache

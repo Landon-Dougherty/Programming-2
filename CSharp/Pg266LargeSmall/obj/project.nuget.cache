@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "b8vYZonyeeWQ0Tpd0Ubf7sdPr2c9CHSFwHq4Iq77d75trX+2LFKTl7ltu2jQ4qIC3UPUiaEdjQBHmYSuIO72PQ==",
+  "dgSpecHash": "5bomqbm530gxRyjAjZG62t81gr4drSjOFFkCMLUtzF9DZC41TBwgyrsPTPqlXnxH2oM/iW4VcwOMEnlJtc/j4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\dougherty.l\\Desktop\\Programming-2\\CSharp\\Pg266LargeSmall\\Pg266LargeSmall.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dougherty.l\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

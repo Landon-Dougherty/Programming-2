@@ -1,0 +1,15 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\obj\Debug\net6.0\Prog273MassAndWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\obj\Debug\net6.0\Prog273MassAndWeight.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\obj\Debug\net6.0\Prog273MassAndWeight.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\obj\Debug\net6.0\Prog273MassAndWeight.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\obj\Debug\net6.0\Prog273MassAndWeight.csproj.AssemblyReference.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\bin\Debug\net6.0\Prog273MassAndWeight.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\bin\Debug\net6.0\Prog273MassAndWeight.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\bin\Debug\net6.0\Prog273MassAndWeight.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\bin\Debug\net6.0\Prog273MassAndWeight.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\bin\Debug\net6.0\ref\Prog273MassAndWeight.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\bin\Debug\net6.0\Prog273MassAndWeight.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\obj\Debug\net6.0\Prog273MassAndWeight.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\obj\Debug\net6.0\ref\Prog273MassAndWeight.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\obj\Debug\net6.0\Prog273MassAndWeight.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog273MassAndWeight\obj\Debug\net6.0\Prog273MassAndWeight.genruntimeconfig.cache

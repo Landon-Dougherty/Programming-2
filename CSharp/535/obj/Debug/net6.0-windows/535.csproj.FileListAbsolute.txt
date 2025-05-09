@@ -1,0 +1,17 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\bin\Debug\net6.0-windows\535.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\bin\Debug\net6.0-windows\535.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\bin\Debug\net6.0-windows\535.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\bin\Debug\net6.0-windows\535.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\bin\Debug\net6.0-windows\ref\535.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\bin\Debug\net6.0-windows\535.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\obj\Debug\net6.0-windows\_535.Form1.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\obj\Debug\net6.0-windows\535.csproj.GenerateResource.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\obj\Debug\net6.0-windows\535.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\obj\Debug\net6.0-windows\535.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\obj\Debug\net6.0-windows\535.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\obj\Debug\net6.0-windows\535.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\obj\Debug\net6.0-windows\535.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\obj\Debug\net6.0-windows\ref\535.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\obj\Debug\net6.0-windows\535.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\obj\Debug\net6.0-windows\535.genruntimeconfig.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\535\obj\Debug\net6.0-windows\535.csproj.AssemblyReference.cache

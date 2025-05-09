@@ -100,7 +100,42 @@
       "ProjectGuid": "789ef4bc-c505-404f-ba87-61c7eb6906d8",
       "DisplayName": "Prog347",
       "ColorIndex": 2
+    },
+    "14987138-e6b7-496b-92c6-4258d72b44f8": {
+      "ProjectGuid": "14987138-e6b7-496b-92c6-4258d72b44f8",
+      "DisplayName": "calc(functions)",
+      "ColorIndex": 3
+    },
+    "fa324a95-943c-49d8-b1df-ddaf8a9cf32b": {
+      "ProjectGuid": "fa324a95-943c-49d8-b1df-ddaf8a9cf32b",
+      "DisplayName": "Prog435TicketSales",
+      "ColorIndex": 4
+    },
+    "b52f77f6-4152-4390-af84-c8ab19039173": {
+      "ProjectGuid": "b52f77f6-4152-4390-af84-c8ab19039173",
+      "DisplayName": "Prog273MassAndWeight",
+      "ColorIndex": 5
+    },
+    "583a548b-eb4f-4c46-9aae-f4cf9308bef3": {
+      "ProjectGuid": "583a548b-eb4f-4c46-9aae-f4cf9308bef3",
+      "DisplayName": "Prog366b",
+      "ColorIndex": 6
+    },
+    "7e8d5c5b-b88f-4bf7-a2da-52ddf896c029": {
+      "ProjectGuid": "7e8d5c5b-b88f-4bf7-a2da-52ddf896c029",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 7
+    },
+    "d89ea74b-ba57-46eb-8c85-e0ef9f098ca6": {
+      "ProjectGuid": "d89ea74b-ba57-46eb-8c85-e0ef9f098ca6",
+      "DisplayName": "535",
+      "ColorIndex": 8
+    },
+    "c050088d-d8c8-40a1-b857-0f935a61c385": {
+      "ProjectGuid": "c050088d-d8c8-40a1-b857-0f935a61c385",
+      "DisplayName": "Pg498Payroll",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 10
 }

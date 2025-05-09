@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ssdEYH+ZaEisiKYXmWiB39Ct8lXBIWfNgRhfmfSTTykIy2Zjz7yqt+OG+vvujDY6I3tuK96QU+X25ZpKEaCaEg==",
+  "dgSpecHash": "ugy4TTAgXHoeRcMXimni6M950xcDKxEb7w46t7raMDN2azRMiMkZ60yIWd10FtX3Ek2lqbHYnNg3tdo64JVc4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\dougherty.l\\Desktop\\Programming-2\\CSharp\\Prog273\\Prog273BookClub.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dougherty.l\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

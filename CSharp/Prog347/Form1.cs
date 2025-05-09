@@ -1,3 +1,4 @@
+using Microsoft.VisualBasic;
 namespace Prog347
 {
     public partial class Form1 : Form
@@ -14,7 +15,14 @@ namespace Prog347
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            int sum = 0;
+            int number = int.Parse(Interaction.InputBox("Enter Number :", "Input Needed"));
+            for (int i = 0; i <= number; i++)
+            {
+                sum += i;
+            } 
+            MessageBox.Show("Sum of Your Number : " + sum);
+                
         }
     }
 }
