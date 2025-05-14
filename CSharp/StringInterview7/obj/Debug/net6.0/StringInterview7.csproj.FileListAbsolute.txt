@@ -1,0 +1,14 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\bin\Debug\net6.0\StringInterview7.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\bin\Debug\net6.0\StringInterview7.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\bin\Debug\net6.0\StringInterview7.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\bin\Debug\net6.0\StringInterview7.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\bin\Debug\net6.0\ref\StringInterview7.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\bin\Debug\net6.0\StringInterview7.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\obj\Debug\net6.0\ref\StringInterview7.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.genruntimeconfig.cache

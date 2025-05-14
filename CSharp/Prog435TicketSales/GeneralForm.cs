@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Prog435TicketSales
 {
+
     public partial class GeneralForm : Form
     {
         private Form myParent;
@@ -22,7 +23,7 @@ namespace Prog435TicketSales
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Parent.Show();
+            this.myParent.Show();
             this.Close();
         }
 
@@ -38,6 +39,33 @@ namespace Prog435TicketSales
 
         private void GeneralForm_Load_1(object sender, EventArgs e)
         {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e) {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e) {
+            double tktCost = 0.0;
+            int tktCount = int.Parse(textBox1.Text);
+            double fnlCost = 0.0;
+            
+            if (radioButton1.Checked) 
+                tktCost = 20.0;
+            else if (radioButton2.Checked) 
+                tktCost = 15.0;
+            else 
+                tktCost = 10.0;
+            
+            fnlCost = tktCount * tktCost;
+            label6.Text = fnlCost.ToString();
+            label7.Text = "Tax = 7%";
+            
+            fnlCost = fnlCost * 1.07;
+            
+            label8.Text = fnlCost.ToString();
+
 
         }
     }

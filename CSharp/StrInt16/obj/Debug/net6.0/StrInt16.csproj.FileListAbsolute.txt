@@ -1,0 +1,14 @@
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\bin\Debug\net6.0\StrInt16.exe
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\bin\Debug\net6.0\StrInt16.deps.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\bin\Debug\net6.0\StrInt16.runtimeconfig.json
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\bin\Debug\net6.0\StrInt16.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\bin\Debug\net6.0\ref\StrInt16.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\bin\Debug\net6.0\StrInt16.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\obj\Debug\net6.0\StrInt16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\obj\Debug\net6.0\StrInt16.AssemblyInfoInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\obj\Debug\net6.0\StrInt16.AssemblyInfo.cs
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\obj\Debug\net6.0\StrInt16.csproj.CoreCompileInputs.cache
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\obj\Debug\net6.0\StrInt16.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\obj\Debug\net6.0\ref\StrInt16.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\obj\Debug\net6.0\StrInt16.pdb
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\StrInt16\obj\Debug\net6.0\StrInt16.genruntimeconfig.cache
