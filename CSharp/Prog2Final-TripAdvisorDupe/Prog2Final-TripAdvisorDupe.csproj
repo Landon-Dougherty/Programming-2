@@ -9,4 +9,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="GMap.NET.WindowsForms" Version="1.7.5" />
+    <PackageReference Include="GMap.NET.WinForms.Utils" Version="2.1.7" />
+    <PackageReference Include="Mapsui" Version="4.1.9" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+  </ItemGroup>
+
 </Project>
