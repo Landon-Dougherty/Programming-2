@@ -155,7 +155,12 @@
       "ProjectGuid": "3816429c-423b-481f-b8e5-d885136cf912",
       "DisplayName": "Prog2Final-TripAdvisor",
       "ColorIndex": 13
+    },
+    "a81c59dd-1849-4161-9b56-66f65e1d2131": {
+      "ProjectGuid": "a81c59dd-1849-4161-9b56-66f65e1d2131",
+      "DisplayName": "finaltestwithgpt",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 15
 }

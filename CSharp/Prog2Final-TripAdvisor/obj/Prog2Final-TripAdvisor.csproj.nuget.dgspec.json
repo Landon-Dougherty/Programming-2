@@ -40,6 +40,18 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "GMap.NET.WinForms": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
+            "GMap.NET.WinPresentation": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
+            "GMap.Net": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
             "Mapsui.Wpf": {
               "target": "Package",
               "version": "[4.1.9, )"

@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="GMap.NET.WinPresentation" Version="2.1.7" />
     <PackageReference Include="Mapsui.Wpf" Version="4.1.9" />
   </ItemGroup>
 

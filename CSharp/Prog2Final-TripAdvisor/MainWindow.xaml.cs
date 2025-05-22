@@ -1,42 +1,46 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using GMap.NET.MapProviders;
+using GMap.NET.WindowsPresentation;
+using System;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+using GMap.NET;
 
-namespace Prog2Final_TripAdvisor {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window {
-        //Mapsui.UI.Wpf.MapControl mapControl;
-
-        public MainWindow() {
+namespace YourNamespace
+{
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
             InitializeComponent();
-            mapControl.Map = new Mapsui.Map();
-            mapControl.Map?.Layers.Add(Mapsui.Tiling.OpenStreetMap.CreateTileLayer());
-            //mapControl = new Mapsui.UI.Wpf.MapControl();
-            //mapControl.Map?.Layers.Add(Mapsui.Tiling.OpenStreetMap.CreateTileLayer());
-            //Content = mapControl;
-            this.Content = mapControl;
 
-            double WILong = -89.5;
-            double WILat = -44.5;
+            // Initialize the GMap Control
+            gMapControl.MapProvider = GMapProviders.GoogleMap;
+            gMapControl.SetPositionByKeywords("Madison, Wisconsin, USA");
+            gMapControl.MinZoom = 1;
+            gMapControl.MaxZoom = 17;
+            gMapControl.Zoom = 10;
 
-            var center = Mercar
+            // Additional GMap settings
+            gMapControl.ShowTileGridLines = false;
+            gMapControl.Manager.Mode = GMap.NET.AccessMode.ServerOnly;
 
+            // Place button over the specific location (Madison, WI)
+            PlaceButtonOverMap();
         }
-        // button stuff can go here if you eventually find out how to do it.
 
+        // Function to calculate map position for a button (Madison, WI)
+        private void PlaceButtonOverMap()
+        {
+            // Coordinates for Madison, WI (Latitude, Longitude)
+            double lat = 43.0731;
+            double lon = -89.4012;
 
-    }
-}
+            // Convert map coordinates to screen coordinates
+            var point = gMapControl.FromLatLngToLocal(new PointLatLng(lat, lon));
+
+            // Position the button on the canvas based on screen coordinates
+            Canvas.SetLeft(mwkButton, point.X - mwkButton.Width / 2);
+            Canvas.SetTop(mwkButton, point.Y - mwkButton.Height / 2);
+        }
+
+     
