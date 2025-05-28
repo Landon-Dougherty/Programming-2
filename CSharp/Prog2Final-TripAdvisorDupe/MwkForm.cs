@@ -9,10 +9,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Prog2Final_TripAdvisorDupe {
-    public partial class MadisonForm : Form {
-
+    public partial class MwkForm : Form {
         private Form MyParent;
-        public MadisonForm(Form parent) {
+        public MwkForm(Form parent) {
             InitializeComponent();
 
             this.MyParent = parent;
@@ -23,12 +22,19 @@ namespace Prog2Final_TripAdvisorDupe {
             this.Close();
         }
 
-        private void label2_Click(object sender, EventArgs e) {
+        private void MwkForm_Load(object sender, EventArgs e) {
 
         }
 
-        private void MadisonForm_Load(object sender, EventArgs e) {
+        private void button2_Click(object sender, EventArgs e) {
+            MyParent.Show();
+            this.Hide();
+        }
 
+        private void button1_Click_1(object sender, EventArgs e) {
+            MwkInfo mwkInfo = new MwkInfo(this);
+            mwkInfo.Show();
+            this.Close();
         }
     }
 }

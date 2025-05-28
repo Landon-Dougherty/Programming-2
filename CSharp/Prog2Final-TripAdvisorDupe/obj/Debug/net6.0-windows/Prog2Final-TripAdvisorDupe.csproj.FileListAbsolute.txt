@@ -33,6 +33,14 @@ C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin
 C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
 C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\GMapExample.Form1.resources
-C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\GMapExample.MadisonForm.resources
 C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.Properties.Resources.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.MwkForm.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.MadisonForm.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.MainForm.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.JanesvilleForm.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.GreenbayForm.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.KenoshaForm.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.RacineForm.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.RacineInfo.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.MwkInfo.resources
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.GreenInfo.resources

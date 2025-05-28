@@ -5,14 +5,22 @@ using GMap.NET.MapProviders;
 using GMap.NET.WindowsForms;
 using GMap.NET.WindowsForms.Markers;
 
-namespace GMapExample {
-    public partial class Form1 : Form {
+namespace Prog2Final_TripAdvisorDupe {
+    public partial class MainForm : Form {
         private GMapControl gMapControl;
         private GMapOverlay markersOverlay;
 
-        public Form1() {
+        List<string> cities = new List<string> {
+            "Madison, WI",
+            "Milwaukee, WI",
+            "Janesville, WI",
+            "Green Bay, WI",
+            "Kenosha, WI",
+            "Racine, WI"
+        };
+        public MainForm() {
             InitializeComponent();
-
+            
             // Initialize and configure the GMap control
             gMapControl = new GMapControl {
                 Dock = DockStyle.Fill,
@@ -32,12 +40,12 @@ namespace GMapExample {
 
             // Add markers
 
-            AddMarker(43.0731, -89.4012, "Madison, WI");    // Madison
-            AddMarker(43.0389, -87.9065, "Milwaukee, WI");  // Milwaukee
-            AddMarker(42.6821, -89.0275, "Janesville, WI"); // Janesville
-            AddMarker(44.5133, -88.0133, "Green Bay, WI"); // Green Bay
-            AddMarker(42.5117, -87.6503, "Kenosha, WI"); // Kenosha 
-            AddMarker(42.6628, -87.7458, "Racine, WI"); // Racine 
+            AddMarker(43.0731, -89.4012, cities[0]);    // Madison
+            AddMarker(43.0389, -87.9065, cities[1]);  // Milwaukee
+            AddMarker(42.6821, -89.0275, cities[2]); // Janesville
+            AddMarker(44.5133, -88.0133, cities[3]); // Green Bay
+            AddMarker(42.588079, -87.822877, cities[4]); // Kenosha 
+            AddMarker(42.722702, -87.784225, cities[5]); // Racine 
 
 
             // Add the overlay to the map
@@ -67,33 +75,41 @@ namespace GMapExample {
                 // Loop through all markers to check if click is near one
                 foreach (var marker in markersOverlay.Markers) {
                     double distance = GetDistance(clickPoint, marker.Position);
-                    if (distance < 5.0) { // 1km radius threshold
+                    if (distance < 7.50) { // 1km radius threshold
                         // Marker clicked!
                         string name = marker.Tag as string;
                         MessageBox.Show($"You Clicked: {name}");
                          
                         // If Madison is clicked 
-                        if (name == "Madison, WI") {
-                            MessageBox.Show($"You Clicked: {name}");
-                            MadisonForm frm = new MadisonForm(this);
-                            frm.Show();
+                        if (name == cities[0]) {
+                            MadisonForm madForm = new MadisonForm(this);
+                            madForm.Show();
                             this.Hide();
                         }
-                        if (name == "Milwaukee, WI") {
-                            MessageBox.Show($"You Clicked: {name}");
+                        if (name == cities[1]) { // MWK
+                            MwkForm mwkForm = new MwkForm(this);
+                            mwkForm.Show();
+                            this.Hide();
                         }
-                        if (name == "Janesville, WI") {
-                            MessageBox.Show($"You Clicked: + {name}"); 
-
+                        if (name == cities[2]) { // Janesville
+                            JanesvilleForm janForm = new JanesvilleForm(this);
+                            janForm.Show();
+                            this.Hide();
                         }
-                        if (name == "Green Bay, WI") {
-                            MessageBox.Show($"You Clicked: {name}");
+                        if (name == cities[3]) { // Green Bay
+                            GreenbayForm genForm = new GreenbayForm(this);
+                            genForm.Show();
+                            this.Hide();
                         }
-                        if (name == "Kenosha, WI") {
-                            MessageBox.Show($"You Clicked: {name}");
+                        if (name == cities[4]) { // Kenosha
+                            KenoshaForm kenForm = new KenoshaForm(this);
+                            kenForm.Show();
+                            this.Hide();
                         }
-                        if (name == "Racine, WI") {
-                            MessageBox.Show($"You Clicked: {name}");
+                        if (name == cities[5]) { // Racine?
+                            RacineForm recForm = new RacineForm(this);
+                            recForm.Show();
+                            this.Hide();
                         }
                     }
                 }
@@ -114,6 +130,10 @@ namespace GMapExample {
 
         private double DegreesToRadians(double deg) {
             return deg * (Math.PI / 180);
+        }
+
+        private void button1_Click(object sender, EventArgs e) {
+            Application.Exit();
         }
     }
 }

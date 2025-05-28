@@ -1,6 +1,6 @@
-using GMapExample;
+using Prog2Final_TripAdvisorDupe;
 
-namespace GMapExample {
+namespace Prog2Final_TripAdvisorDupe {
     internal static class Program {
         /// <summary>
         ///  The main entry point for the application.
@@ -10,7 +10,7 @@ namespace GMapExample {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            Application.Run(new MainForm());
         }
     }
 }
