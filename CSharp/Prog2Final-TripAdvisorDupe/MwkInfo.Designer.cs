@@ -52,7 +52,8 @@
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(200, 59);
             this.label17.TabIndex = 67;
-            this.label17.Text = "Ammenities : Guided Tours, Wheelchairs";
+            this.label17.Text = "Amenities : Guided Tours, Wheelchairs";
+            this.label17.Click += new System.EventHandler(this.label17_Click);
             // 
             // label16
             // 
@@ -96,7 +97,7 @@
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(200, 59);
             this.label10.TabIndex = 63;
-            this.label10.Text = "Ammenities : Lactation Pod, Wheelchair Options, Sensory Kit";
+            this.label10.Text = "Amenities : Lactation Pod, Wheelchair Options, Sensory Kit";
             // 
             // label11
             // 
@@ -140,7 +141,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(191, 43);
             this.label9.TabIndex = 59;
-            this.label9.Text = "Ammenities : Gift Shop, Assistive Tech, Wheelchair";
+            this.label9.Text = "Amenities : Gift Shop, Assistive Tech, Wheelchair";
             // 
             // label8
             // 

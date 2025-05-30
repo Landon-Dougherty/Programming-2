@@ -30,5 +30,17 @@ namespace Prog2Final_TripAdvisorDupe {
             this.MyParent.Show();
             this.Close();
         }
+
+        private void button1_Click(object sender, EventArgs e) {
+            JanesvilleInfo janInfo = new JanesvilleInfo(this);
+            janInfo.Show();
+            this.Close();
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e) {
+            ShellForm shellForm = new ShellForm();
+            shellForm.Show();
+            this.Close();
+        }
     }
 }

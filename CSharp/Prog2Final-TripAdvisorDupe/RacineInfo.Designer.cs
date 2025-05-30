@@ -158,7 +158,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(191, 43);
             this.label9.TabIndex = 41;
-            this.label9.Text = "Ammenities : Playground, Kid Trains, Safaris";
+            this.label9.Text = "Amenities : Playground, Kid Trains, Safaris";
             // 
             // label10
             // 
@@ -169,7 +169,7 @@
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(200, 59);
             this.label10.TabIndex = 45;
-            this.label10.Text = "Ammenities : WiFi, Wheelchair, Restrooms, Assistive Hearing\r\n";
+            this.label10.Text = "Amenities : WiFi, Wheelchair, Restrooms, Assistive Hearing\r\n";
             // 
             // label11
             // 
@@ -248,7 +248,7 @@
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(200, 59);
             this.label17.TabIndex = 49;
-            this.label17.Text = "Ammenities : Lake View, Entertainment, Pet Friendly";
+            this.label17.Text = "Amenities : Lake View, Entertainment, Pet Friendly";
             // 
             // RacineInfo
             // 

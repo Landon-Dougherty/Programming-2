@@ -21,5 +21,9 @@ namespace Prog2Final_TripAdvisorDupe {
             mwkForm.Show();
             this.Close();
         }
+
+        private void label17_Click(object sender, EventArgs e) {
+
+        }
     }
 }

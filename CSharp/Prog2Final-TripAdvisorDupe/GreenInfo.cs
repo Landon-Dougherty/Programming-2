@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Prog2Final_TripAdvisorDupe {
     public partial class GreenInfo : Form {
         private Form MyParent;
