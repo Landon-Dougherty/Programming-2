@@ -36,6 +36,7 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -46,7 +47,7 @@
             this.button1.BackColor = System.Drawing.Color.White;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.button1.Location = new System.Drawing.Point(486, 251);
+            this.button1.Location = new System.Drawing.Point(486, 213);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(130, 37);
             this.button1.TabIndex = 0;
@@ -176,12 +177,26 @@
             this.pictureBox3.TabIndex = 11;
             this.pictureBox3.TabStop = false;
             // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.White;
+            this.button2.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button2.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.button2.Location = new System.Drawing.Point(486, 284);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(130, 37);
+            this.button2.TabIndex = 12;
+            this.button2.Text = "Additional Information";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // MadisonForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.ClientSize = new System.Drawing.Size(688, 350);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
@@ -219,5 +234,6 @@
         private Label label7;
         private Label label8;
         private PictureBox pictureBox3;
+        private Button button2;
     }
 }

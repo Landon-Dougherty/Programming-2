@@ -27,8 +27,10 @@ namespace Prog2Final_TripAdvisorDupe {
         }
 
         private void button2_Click(object sender, EventArgs e) {
-            this.MyParent.Show();
+            MainForm mainForm = new MainForm();
+            mainForm.Show();
             this.Close();
+
         }
 
         private void button1_Click(object sender, EventArgs e) {

@@ -19,7 +19,7 @@ namespace Prog2Final_TripAdvisorDupe {
 
             random = new Random();
             moveTimer = new System.Windows.Forms.Timer();
-            moveTimer.Interval = 500; // slower so movement is visible and catchable
+            moveTimer.Interval = 350; // slower so movement is visible and catchable
             moveTimer.Tick += new EventHandler(MoveTimer_Tick);
             moveTimer.Start();
         }

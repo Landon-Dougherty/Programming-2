@@ -16,13 +16,13 @@ namespace Prog2Final_TripAdvisorDupe {
         }
 
         private void button2_Click(object sender, EventArgs e) {
-
-        }
-
-        private void label16_Click(object sender, EventArgs e) {
             JanesvilleForm janForm = new JanesvilleForm(this);
             janForm.Show();
             this.Close();
+        }
+
+        private void label16_Click(object sender, EventArgs e) {
+            
         }
 
         private void label15_Click(object sender, EventArgs e) {

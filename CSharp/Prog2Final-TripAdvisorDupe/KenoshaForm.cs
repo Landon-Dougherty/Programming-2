@@ -13,12 +13,19 @@ namespace Prog2Final_TripAdvisorDupe {
         private Form MyParent;
         public KenoshaForm(Form parent) {
             InitializeComponent();
-            MyParent = parent;
+
+            this.MyParent = parent;
         }
 
         private void button2_Click(object sender, EventArgs e) {
             this.MyParent.Show();
             this.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e) {
+            KenoshaInfo kenInfo = new KenoshaInfo(this);
+            kenInfo.Show();
+            this.Hide();
         }
     }
 }

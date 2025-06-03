@@ -14,7 +14,7 @@ namespace Prog2Final_TripAdvisorDupe {
         public MwkForm(Form parent) {
             InitializeComponent();
 
-            this.MyParent = parent;
+            MyParent = parent;
         }
 
         private void button1_Click(object sender, EventArgs e) {
@@ -28,13 +28,13 @@ namespace Prog2Final_TripAdvisorDupe {
 
         private void button2_Click(object sender, EventArgs e) {
             MyParent.Show();
-            this.Hide();
+            this.Close();
         }
 
         private void button1_Click_1(object sender, EventArgs e) {
             MwkInfo mwkInfo = new MwkInfo(this);
             mwkInfo.Show();
-            this.Close();
+            this.Hide();
         }
     }
 }

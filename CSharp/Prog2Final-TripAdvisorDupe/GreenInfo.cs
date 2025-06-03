@@ -18,8 +18,7 @@ namespace Prog2Final_TripAdvisorDupe {
         }
 
         private void button2_Click(object sender, EventArgs e) {
-            GreenbayForm greenInfo = new GreenbayForm(this);
-            greenInfo.Show();
+            MyParent.Show();
             this.Close();
         }
     }

@@ -22,7 +22,11 @@ namespace Prog2Final_TripAdvisorDupe {
             this.MyParent.Show();
             this.Close();
         }
-
+        private void button2_Click(object sender, EventArgs e) {
+            MadisonInfo madInfo = new MadisonInfo(this);
+            madInfo.Show();
+            this.Hide();
+        }
         private void label2_Click(object sender, EventArgs e) {
 
         }

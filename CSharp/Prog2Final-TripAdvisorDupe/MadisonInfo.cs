@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Prog2Final_TripAdvisorDupe {
-    public partial class MwkInfo : Form {
+    public partial class MadisonInfo : Form {
         private Form MyParent;
-        public MwkInfo(Form parent ) {
+        public MadisonInfo(Form parent) {
             InitializeComponent();
             MyParent = parent;
         }
@@ -21,7 +21,7 @@ namespace Prog2Final_TripAdvisorDupe {
             this.Close();
         }
 
-        private void label17_Click(object sender, EventArgs e) {
+        private void label16_Click(object sender, EventArgs e) {
 
         }
     }

@@ -25,8 +25,8 @@ namespace Prog2Final_TripAdvisorDupe {
             gMapControl = new GMapControl {
                 Dock = DockStyle.Fill,
                 MapProvider = GMapProviders.GoogleMap,
-                MinZoom = 1,
-                MaxZoom = 17,
+                MinZoom = 5,
+                MaxZoom = 15,
                 Zoom = 8,
                 Position = new PointLatLng(43.0731, -89.4012), // Center on Madison
                 ShowCenter = false

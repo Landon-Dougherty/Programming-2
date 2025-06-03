@@ -9,22 +9,16 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Prog2Final_TripAdvisorDupe {
-    public partial class RacineForm : Form {
+
+    public partial class KenoshaInfo : Form {
         private Form MyParent;
-        public RacineForm(Form parent) {
+        public KenoshaInfo(Form parent) {
             InitializeComponent();
             MyParent = parent;  
         }
 
-        private void button1_Click(object sender, EventArgs e) {
-            MainForm mainForm = new MainForm();
-            mainForm.Show();
-            this.Close();
-        }
-
         private void button2_Click(object sender, EventArgs e) {
-            RacineInfo racInfo = new RacineInfo(this);
-            racInfo.Show();
+            MyParent.Show();
             this.Close();
         }
     }

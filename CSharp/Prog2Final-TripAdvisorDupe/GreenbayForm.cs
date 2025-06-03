@@ -12,20 +12,21 @@ namespace Prog2Final_TripAdvisorDupe {
 
     public partial class GreenbayForm : Form {
         private Form MyParent;
-        public GreenbayForm(Form parent ) {
+        public GreenbayForm(Form parent) {
             InitializeComponent();
             MyParent = parent;
         }
 
         private void button2_Click(object sender, EventArgs e) {
+            
             this.MyParent.Show();
-            this.Hide();
+            this.Close();
         }
 
         private void button1_Click(object sender, EventArgs e) {
             GreenInfo greenInfo = new GreenInfo(this);
             greenInfo.Show();
-            this.Close();
+            this.Hide();
         }
     }
 }
