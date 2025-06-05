@@ -7,12 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Media;
+
 
 namespace Prog2Final_TripAdvisorDupe {
     public partial class ShellForm : Form {
         private System.Windows.Forms.Timer moveTimer;
         private int speed = 10;
         private Random random;
+        SoundPlayer player;
         public ShellForm() {
 
             InitializeComponent();
@@ -22,6 +25,7 @@ namespace Prog2Final_TripAdvisorDupe {
             moveTimer.Interval = 350; // slower so movement is visible and catchable
             moveTimer.Tick += new EventHandler(MoveTimer_Tick);
             moveTimer.Start();
+            player = new SoundPlayer("song.wav");
         }
 
         private void MoveTimer_Tick(object sender, EventArgs e) {
@@ -41,8 +45,11 @@ namespace Prog2Final_TripAdvisorDupe {
 
         private void pictureBox1_Click(object sender, EventArgs e) {
             JanesvilleForm janForm = new JanesvilleForm(this);
+            player.Stop(); 
             janForm.Show();
+            
             this.Close();
+
         }
 
         private void label1_Click(object sender, EventArgs e) {
@@ -52,5 +59,18 @@ namespace Prog2Final_TripAdvisorDupe {
         private void pictureBox2_Click(object sender, EventArgs e) {
 
         }
+
+        private void ShellForm_Load(object sender, EventArgs e) {
+            try {
+                string fullPath = System.IO.Path.Combine(Application.StartupPath, "song.wav");
+
+
+                player = new SoundPlayer(fullPath);
+                player.PlayLooping();  // 🔁 Loop forever
+            } catch (Exception ex) {
+            }
+        }
+
+        
     }
 }
