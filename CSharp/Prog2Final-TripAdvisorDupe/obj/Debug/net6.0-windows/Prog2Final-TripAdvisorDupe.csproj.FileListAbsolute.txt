@@ -49,3 +49,11 @@ C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj
 C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.KenoshaInfo.resources
 C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\obj\Debug\net6.0-windows\Prog2Final_TripAdvisorDupe.MadisonInfo.resources
 C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\song.wav
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\test.wav
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\dougherty.l\Desktop\Programming-2\CSharp\Prog2Final-TripAdvisorDupe\bin\Debug\net6.0-windows\NAudio.WinMM.dll

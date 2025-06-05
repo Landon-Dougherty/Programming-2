@@ -26,6 +26,7 @@ namespace Prog2Final_TripAdvisorDupe {
             moveTimer.Tick += new EventHandler(MoveTimer_Tick);
             moveTimer.Start();
             player = new SoundPlayer("song.wav");
+           
         }
 
         private void MoveTimer_Tick(object sender, EventArgs e) {

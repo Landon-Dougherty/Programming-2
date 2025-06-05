@@ -13,6 +13,7 @@
     <PackageReference Include="GMap.NET.WindowsForms" Version="1.7.5" />
     <PackageReference Include="GMap.NET.WinForms.Utils" Version="2.1.7" />
     <PackageReference Include="Mapsui" Version="4.1.9" />
+    <PackageReference Include="NAudio" Version="2.2.1" />
     <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
   </ItemGroup>
 
@@ -33,6 +34,9 @@
 
   <ItemGroup>
     <None Update="song.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="test.wav">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
